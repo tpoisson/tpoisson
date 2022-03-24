@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, coding and CODING
 - 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on any kind of stuff
-t
+
 <a href="https://www.linkedin.com/in/thomas-poisson-freelance-web-android" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="thomas-poisson-freelance-web-android" height="30" width="30" />
 </a>
