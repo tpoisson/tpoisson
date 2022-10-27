@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://twitter.com/tfished" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/300px-Twitter_Bird.svg.png" alt="tfished" height="30" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="tfished" height="30" />
 </a>
 
 <!---
